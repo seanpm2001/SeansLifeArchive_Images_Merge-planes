@@ -1,6 +1,14 @@
 
 ***
 
+# Merge Plane
+
+![Merge_Plane_Logo.png](Merge_Plane_Logo.png)
+
+# By:
+
+![UnknownDeveloper.svg](UnknownDeveloper.svg)
+
 ### Top
 
 # `README.md`
@@ -33,13 +41,15 @@
 
 > [07.4 - Active pull requests](#Active-pull-requests)
 
-[08.0 - Contributing](#Contributing)
+[08.0 - Resources](#Resources)
 
-[09.0 - About README](#About-README)
+[09.0 - Contributing](#Contributing)
 
-[10.0 - README Version history](#README-version-history)
+[10.0 - About README](#About-README)
 
-[11.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+[11.0 - README Version history](#README-version-history)
+
+[12.0 - Footer](#You-have-reached-the-end-of-the-README-file)
 
 ***
 
@@ -74,7 +84,7 @@ Unavailable
 
 Currently, I am the only contributer. Contributing is not allowed, as this is a personal project.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - 81 commits (As of Friday, November 6th 2020 at 7:51 pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 85 commits (As of Friday, November 13th 2020 at 11:40 am)
 
 > * 2. No other contributers.
 
@@ -100,11 +110,31 @@ None at the moment
 
 ***
 
+## Resources
+
+Here are some other resources for this project:
+
+[Project language file](LANG.pas)
+
+[Merge Plane on the app store (no longer exists)](https://apps.apple.com)
+
+[Download an APK of Merge Plane using APKPure](https://apkpure.com/merge-plane-click-idle-tycoon/com.brokenreality.planemerger.android)
+
+### Images
+
+[Merge_Plane_Logo.png (PNG)](Merge_Plane_Logo.png)
+
+[UnknownDeveloper.svg (SVG)](UnknownDeveloper.svg)
+
+No other resources at the moment.
+
+***
+
 ## Contributing
 
 Contributing is not allowed for this project, as it is a personal project.
 
-[Click/tap here to view the contributing rules for this project](https://github.com/seanpm2001/SeansLifeArchive_Images_Merge-planes/blob/master/CONTRIBUTING.md)
+[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
 
 ***
 
@@ -112,9 +142,9 @@ Contributing is not allowed for this project, as it is a personal project.
 
 File type: `Markdown (*.md)`
 
-File version: `1 (Friday, November 6th 2020 at 7:51 pm)`
+File version: `2 (Friday, November 13th 2020 at 11:40 am)`
 
-Line count: `0,172`
+Line count: `0,230`
 
 ***
 
@@ -154,13 +184,41 @@ Version 1 (Friday, November 6th 2020 at 7:51 pm)
 
 > * No other changes in version 1
 
-Version 2 (coming soon)
+Version 2 (Friday, November 13th 2020 at 11:40 am)
+
+> Changes:
+
+> * Updated the about section
+
+> * Added the resources section
+
+> * Added release notes for v2
+
+> * Added template entries for v3 and v4
+
+> * Updated the file info section
+
+> * Updated the index
+
+> * Updated the contributers section
+
+> * No other changes in version 2
+
+Version 3 (coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 3
+
+Version 4 (coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
 
 ***
 
